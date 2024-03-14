@@ -1,0 +1,480 @@
+{
+  "category": [
+    {
+      "categoryName": "Clothing",
+      "localCategory": [
+        {
+          "localCategoryname": "Hoodies",
+          "obj": [
+            {
+              "ID": 0,
+              "price": 20,
+              "discountCount": 10,
+              "description": "Urban Style Hoodie is the perfect choice for stylish and fashionable young people who appreciate comfort and quality. This ultra-fashionable product is made of high quality cotton with added elastane, which provides excellent fit and comfortable wearing. The hoodie has a comfortable hood with adjustable drawcord and kangaroo pockets, making it practical and functional. The design is decorated with a stylish brand logo on the chest, which gives the look elegance and originality.",
+              "name": "Cozy Comfort Hoodie",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "0", "1", "2" ],
+              "Saved": []
+            },
+            {
+              "ID": 1,
+              "price": 20,
+              "discountCount": 10,
+              "description": "Casual Comfort Hoodie is an ideal choice for those who appreciate comfort and practicality. This versatile product is suitable for both active holidays and everyday wear. It is made of soft jersey, which is pleasant to the body and provides a feeling of warmth. The hoodie has a comfortable hood with soft lining and spacious pockets for easy storage of small things. The stylish design with print or applique will add a touch of colour to your look.",
+              "name": "Urban Chill Pullover",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "3", "4", "5" ],
+              "Saved": []
+            },
+            {
+              "ID": 2,
+              "price": 30,
+              "discountCount": 30,
+              "description": "Sporty Chic Hoodie is the perfect combination of sporty style and elegance. Made of soft fleece, which provides warmth and comfort in cold weather. The unique design with contrasting inserts and embroidered logo makes this hoodie a stylish accent to your wardrobe. Perfect for both everyday wear and sports. Quality materials and durable seams guarantee a long life of the product.",
+              "name": "Relaxed Fit Hoodie",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "6", "7", "8" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Pants",
+          "obj": [
+            {
+              "ID": 3,
+              "price": 35,
+              "discountCount": 0,
+              "description": "The perfect choice for everyday wear and active lifestyles. These comfortable and practical trousers are made from soft and durable cotton with added elastane for a great fit and comfort on the move. The trousers have a classic cut with five pockets, making them functional and convenient for storing small things. The stylish, uncluttered design makes these trousers versatile and easy to match with a variety of outerwear. The perfect choice for those who value comfort and practicality in everyday life.",
+              "name": "Classic Denim Trousers",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "9", "10", "11" ],
+              "Saved": []
+            },
+            {
+              "ID": 4,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Great choice for sports and outdoor activities. These functional trousers are made of lightweight and quick-drying material that provides excellent ventilation and comfort during physical activity. The trousers have an ergonomic cut with convenient side pockets and an elasticated waistband with an adjustable drawstring, which ensures a perfect fit and waist lock. Special mesh inserts provide additional ventilation and comfort. The stylish design with contrasting inserts makes these trousers a fashionable accent to your sports wardrobe.",
+              "name": "Urban Cargo Pants",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "12", "13", "14" ],
+              "Saved": []
+            },
+            {
+              "ID": 5,
+              "price": 35,
+              "discountCount": 0,
+              "description": "The perfect choice for those who appreciate comfort and style in everyday wear. These cosy and soft trousers are made of quality fleece, which provides warmth and cosiness in cool weather. The trousers have a straight cut with an elasticated drawstring waistband for a comfortable fit around the waist. Handy side pockets add functionality to these trousers, allowing you to keep essentials close at hand. A stylish design with a minimalistic logo on the hip makes these trousers versatile and easy to match with a variety of outerwear. The perfect choice for home, walking or shopping.",
+              "name": "Tailored Chino Bottoms",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "15", "16", "17" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "T-Shirts",
+          "obj": [
+            {
+              "ID": 6,
+              "price": 20,
+              "discountCount": 20,
+              "description": "The perfect choice for everyday use and creating a stylish look. This versatile T-shirt is made from soft and body-pleasing cotton that provides comfort and freedom of movement. The simple cut and classic design make this T-shirt easy to pair with a variety of undergarments, making it a great wardrobe staple. The comfortable round neckline and short sleeves make this t-shirt comfortable to wear in warm weather. A perfect choice for those who appreciate simplicity, comfort and style in everyday life.",
+              "name": "Casual Comfort Tee",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "18", "19", "20" ],
+              "Saved": []
+            },
+            {
+              "ID": 7,
+              "price": 35,
+              "discountCount": 20,
+              "description": "Is a great choice for sports activities and active lifestyle. This functional T-shirt is made of lightweight and breathable material that provides excellent ventilation and comfort during physical activity. The unique composition of the material has a quick drying property, making this T-shirt ideal for outdoor sports. The stylish design with contrasting inserts and logo makes this T-shirt a fashionable accent to your sports wardrobe. The comfortable round neckline and special inserts provide additional ventilation and freedom of movement. The perfect choice for those who appreciate comfort and style in sportswear.",
+              "name": "Everyday Essentials T-Shirt",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "21", "22", "23" ],
+              "Saved": []
+            },
+            {
+              "ID": 8,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Is a cosy and stylish T-shirt for everyday use. This soft and comfortable T-shirt is made of quality cotton with added elastane, which provides excellent fit and comfort when wearing. The simple cut with short sleeves makes this T-shirt versatile and easy to combine with different undergarments. The comfortable round neckline and soft material make this t-shirt ideal for home, outings or casual affairs. Stylish design with a minimalistic logo or print makes this t-shirt unique and stylish. A perfect choice for those who appreciate comfort and elegance in clothing.",
+              "name": "Classic Cotton Top",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "24", "25", "26" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Shoes",
+      "localCategory": [
+        {
+          "localCategoryname": "Sneakers",
+          "obj": [
+            {
+              "ID": 9,
+              "price": 20,
+              "discountCount": 0,
+              "description": "These trainers are designed for those who lead an active lifestyle and appreciate comfort and style in one. They are made of high quality materials that provide excellent cushioning and foot support. The comfortable treaded sole provides reliable traction and anti-slip protection. The stylish design with bright colours adds a touch of fashion and style to your sporty look.",
+              "name": "Velocity Crossrunners",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "27", "28", "29" ],
+              "Saved": []
+            },
+            {
+              "ID": 10,
+              "price": 25,
+              "discountCount": 0,
+              "description": "These trainers are suitable for any sport and physical activity. They are made of breathable materials that provide excellent ventilation and comfort even during the most intense workouts. The comfortable sole with good cushioning and foot support makes you feel confident and comfortable during training. Stylish and modern design makes you a real sports star.",
+              "name": "Urban Crosskicks",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "30", "31", "32" ],
+              "Saved": []
+            },
+            {
+              "ID": 11,
+              "price": 20,
+              "discountCount": 30,
+              "description": "These trainers are perfect for extreme sports and adventure lovers. They are made of durable and abrasion-resistant materials that provide reliable foot protection against impact and damage. The comfortable treaded sole provides excellent traction on any surface and anti-slip protection. The stylish and aggressive design adds a touch of adrenaline to your extreme adventures.",
+              "name": "SprintX Sneakers",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "33", "34", "35" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Shoes",
+          "obj": [
+            {
+              "ID": 12,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Want to look elegant but don't want to sacrifice comfort? Then our shoes are the perfect choice for you! Their striking design captivates the eye, while the soft material of exceptional quality provides unrivalled comfort all day long. These shoes will be a real jewel in your wardrobe and will make you feel confident and noble. Let yourself please your eyes and feet at the same time with our shoes Elegance and Comfort!",
+              "name": "Elegant Essence",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "36", "37", "38" ],
+              "Saved": []
+            },
+            {
+              "ID": 13,
+              "price": 25,
+              "discountCount": 30,
+              "description": "Do you want to wear stylish shoes without losing comfort? Our Maximum, Comfort shoes are specially designed for you! Made of durable genuine leather and equipped with a comfortable sole, these shoes provide unrivalled support and comfort at every step. They go well with any of your looks and will keep you comfortable all day long. The unique combination of style and comfort is exactly what makes our Maximum Comfort shoes the perfect choice for everyday wear.",
+              "name": "Lunar Charm",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "39", "40", "41" ],
+              "Saved": []
+            },
+            {
+              "ID": 14,
+              "price": 20,
+              "discountCount": 0,
+              "description": "For us, comfort and durability are integral to stylish design. Our Style and Durability shoes offer you the best of both worlds! Made of high quality materials with advanced technology, these shoes not only look luxurious but also last for years to come. The stable heel and sturdy stitching ensure reliability in your every step. Take quality, style and durability into your hands with our Style and Durability shoes!",
+              "name": "Urban Grace",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "42", "43", "44" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Boots",
+          "obj": [
+            {
+              "ID": 15,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Looking for boots that will combine sophistication and comfort for office style? Our Refinement and Comfort boots are designed with all your needs in mind! Their sleek design and high quality materials allow you to be stylish and comfortable throughout your working day. They are perfect for business meetings and office outings, giving you unrivalled comfort and confidence. Add glamour to your office style with our Refinement and Comfort boots!",
+              "name": "Trailblaze Boots",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "45", "46", "47" ],
+              "Saved": []
+            },
+            {
+              "ID": 16,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Dreaming of adding romance to your look? Our Romance and Comfort boots will help you create a magical atmosphere! They are made of natural materials and decorated with exquisite details that give them a unique charm and elegance. The comfortable sole provides softness and cushioning with every step, allowing you to feel comfortable all day long. Discover a world of romance with our Romance and Comfort shoes!",
+              "name": "Urban Explorer Shoes",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "48", "49", "50" ],
+              "Saved": []
+            },
+            {
+              "ID": 17,
+              "price": 25,
+              "discountCount": 10,
+              "description": "Do you love adventure and extreme conditions? Then our Adventure and Reliability boots will become your indispensable companion! They are made of durable and waterproof materials that provide reliable protection against moisture and impact. The unique outsole provides excellent traction on all surfaces, allowing you to move smoothly in all conditions. Be ready for any challenge with our Adventure and Reliability boots!",
+              "name": "Rugged Trekker Footwear",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "51", "52", "53" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Bags",
+      "localCategory": [
+        {
+          "localCategoryname": "Backpacks",
+          "obj": [
+            {
+              "ID": 18,
+              "price": 35,
+              "discountCount": 10,
+              "description": "The perfect companion for an active urban lifestyle. This stylish backpack is made of durable nylon and features multiple pockets and compartments to organise your belongings. The comfortable, adjustable straps and padded backrest ensure a comfortable carrying experience. With its compact size, this backpack is perfect for travelling, walking around town or going to the gym.",
+              "name": "Adventure Quest Backpack",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "54", "55", "56" ],
+              "Saved": []
+            },
+            {
+              "ID": 19,
+              "price": 20,
+              "discountCount": 0,
+              "description": "This durable backpack is designed for outdoor enthusiasts. It is made of waterproof material and features reinforced seams to withstand extreme conditions. A large spacious main compartment and many pockets allow you to organise all the necessary equipment. Comfortable, adjustable straps and a ventilated backrest ensure comfort on long hikes. Ideal for hiking, camping or travelling outdoors.",
+              "name": "Cityscape Voyager Pack",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "57", "58", "59" ],
+              "Saved": []
+            },
+            {
+              "ID": 20,
+              "price": 30,
+              "discountCount": 10,
+              "description": "This versatile backpack is suitable for a variety of tasks and situations. It is made of durable material and has many compartments and pockets to organise your belongings. The comfortable, adjustable straps and padded backrest ensure a comfortable carrying experience. Thanks to its versatility, this backpack is suitable for work, study, travelling or walking around town.",
+              "name": "Explorer's Trail Rucksack",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "60", "61", "62" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Small bags",
+          "obj": [
+            {
+              "ID": 21,
+              "price": 25,
+              "discountCount": 0,
+              "description": "This stylish mini bag will add elegance and charm to your urban look. It is made of high quality faux leather and features a fashionable design. Its compact size makes it easy to carry on your shoulder or in your hand. Perfect for evening walks, dates or going to cafes.",
+              "name": "Mini Chic Clutc",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "63", "64", "65" ],
+              "Saved": []
+            },
+            {
+              "ID": 22,
+              "price": 25,
+              "discountCount": 10,
+              "description": "This small handbag is perfect for travel and adventure. It is made of durable nylon and features multiple compartments and pockets to organise your belongings. The adjustable strap allows you to wear it on your shoulder or across your waist. Its compact size and light weight make it the perfect companion for active travelling.",
+              "name": "Petite Glam Purse",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "66", "67", "68" ],
+              "Saved": []
+            },
+            {
+              "ID": 23,
+              "price": 25,
+              "discountCount": 30,
+              "description": "This small handbag will add a touch of luxury and glitz to any evening event. It is made of glittery material and adorned with stylish decorations. The compact size makes it easy to carry in your hand or on your shoulder with the detachable strap. Perfect for parties, weddings or other special occasions.",
+              "name": "Tiny Trendy Tote",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "69", "70", "71" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Suitcases",
+          "obj": [
+            {
+              "ID": 24,
+              "price": 30,
+              "discountCount": 0,
+              "description": "This stylish and durable suitcase is perfect for long journeys and adventures. It is made of high quality polycarbonate that protects your belongings from bumps and damage. Convenient handles and wheels ensure easy manoeuvrability and comfortable carrying. Internal compartments and straps help organise your belongings and prevent them from getting jumbled. The perfect choice for travelling enthusiasts and reliable protection for your belongings.",
+              "name": "Voyager's Venture Suitcase",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "72", "73", "74" ],
+              "Saved": []
+            },
+            {
+              "ID": 25,
+              "price": 30,
+              "discountCount": 20,
+              "description": "This sleek and functional suitcase is ideal for business travellers and business trips. It is made of durable nylon that protects your belongings from external damage. Comfortable handles and wheels ensure easy manoeuvrability and comfortable carrying. Internal compartments and pockets help you organise your documents, laptop, clothes and other essentials. Ideal choice for successful businessmen and professionals.",
+              "name": "Explorer's Expedition Luggage",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "75", "76", "77" ],
+              "Saved": []
+            },
+            {
+              "ID": 26,
+              "price": 30,
+              "discountCount": 0,
+              "description": "This stylish and bright suitcase will add a touch of fashion and style to your travels. It is made of high quality material with fashionable print or embroidery. Comfortable handles and wheels ensure easy manoeuvrability and comfortable carrying. Internal compartments and straps help to organise your belongings and prevent them from getting jumbled. The perfect choice for fashionable and stylish travellers.",
+              "name": "Jetsetter's Journey Bag",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "78", "79", "80" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Accessories",
+      "localCategory": [
+        {
+          "localCategoryname": "Necklace",
+          "obj": [
+            {
+              "ID": 27,
+              "price": 35,
+              "discountCount": 0,
+              "description": "This exquisite necklace is designed for those who appreciate elegance and luxury. Made of glittering crystals and adorned with precious stones, it attracts attention with its shimmering shimmer and vibrant colours. The necklace design emphasises your personality and adds glamour and luxury to your look. Perfect for special occasions such as parties, social events or romantic dates.",
+              "name": "Radiant Necklace Ensemble",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "81", "82", "83" ],
+              "Saved": []
+            },
+            {
+              "ID": 28,
+              "price": 25,
+              "discountCount": 20,
+              "description": "If you want to add delicacy and femininity to your look, this necklace is your choice. It is made of sterling silver and adorned with beautiful pearls that give it a sophisticated and romantic look. The design of the necklace emphasises your beauty and gives you a delicate and mysterious look. Perfect for weddings, romantic dates or other special events where you want to look delicate and attractive.",
+              "name": "Ethereal Pendant Collection",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "84", "85", "86" ],
+              "Saved": []
+            },
+            {
+              "ID": 29,
+              "price": 20,
+              "discountCount": 0,
+              "description": "If you dream of experiencing the magic of the underwater world, this necklace will be your companion. It is made of bright aquamarine stones and pearls, which create an impression of sea depth and mystery. The design of the necklace attracts attention with its bright colours and unusual shape, giving your look mysterious and attractive. Perfect for evening strolls along the coast or for creating a beach look.",
+              "name": "Sparkling Chain Set",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "87", "88", "89" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Earrings",
+          "obj": [
+            {
+              "ID": 30,
+              "price": 30,
+              "discountCount": 10,
+              "description": "These exquisite earrings are designed for those who appreciate elegance and luxury. Made of shiny silver and embellished with crystals, they catch the eye with their glittering shimmers and vibrant colours. The earring design emphasises your personality and adds glamour and luxury to your look. Perfect for special occasions such as parties, social events or romantic dates.",
+              "name": "Dazzle Drops Earrings",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "90", "91", "92" ],
+              "Saved": []
+            },
+            {
+              "ID": 31,
+              "price": 20,
+              "discountCount": 30,
+              "description": "If you want to add delicacy and femininity to your look, these earrings are your choice. They are made of sterling silver and adorned with beautiful pearls that give them a sophisticated and romantic look. The design of the earrings emphasises your beauty and gives you a delicate and mysterious look. Perfect for weddings, romantic dates or other special occasions where you want to look delicate and attractive.",
+              "name": "Glimmering Gems Earpieces",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "93", "94", "95" ],
+              "Saved": []
+            },
+            {
+              "ID": 32,
+              "price": 30,
+              "discountCount": 0,
+              "description": "If you dream of experiencing the magic of the underwater world, these earrings will be your companion. They are made of bright aquamarine stones and pearls, which create an impression of sea depth and mystery. The design of the earrings attracts attention with their bright colours and unusual shape, giving your look mysterious and attractive. Perfect for evening strolls along the coast or for creating a look on the beach.",
+              "name": "Radiant Hoop Earrings",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "96", "97", "98" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Bracelet",
+          "obj": [
+            {
+              "ID": 33,
+              "price": 35,
+              "discountCount": 30,
+              "description": "This exquisite bracelet is designed for those who appreciate elegance and luxury. Made of shiny silver and adorned with crystals, it attracts attention with its brilliant shimmers and vibrant colours. The bracelet design emphasises your personality and adds glamour and luxury to your look. Perfect for special occasions such as parties, social events or romantic dates.",
+              "name": "Sleek Charm Bracelet",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "99", "100", "101" ],
+              "Saved": []
+            },
+            {
+              "ID": 34,
+              "price": 25,
+              "discountCount": 0,
+              "description": "If you want to add delicacy and femininity to your look, this bracelet is your choice. It is made of sterling silver and adorned with beautiful pearls that give it a sophisticated and romantic look. The design of the bracelet emphasises your beauty and gives you a delicate and mysterious look. Perfect for weddings, romantic dates or other special events where you want to look delicate and attractive.",
+              "name": "Elegant Bangle Ensemble",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "102", "103", "104" ],
+              "Saved": []
+            },
+            {
+              "ID": 35,
+              "price": 35,
+              "discountCount": 0,
+              "description": "If you dream of experiencing the magic of the underwater world, this bracelet will be your companion. It is made of bright aquamarine stones and pearls, which create an impression of sea depth and mystery. The design of the bracelet attracts attention with its bright colours and unusual shape, giving your look mysterious and attractive. Perfect for evening strolls along the coast or for creating a look on the beach.",
+              "name": "Dainty Link Wristlet",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "105", "106", "107" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

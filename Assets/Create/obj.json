@@ -1,0 +1,480 @@
+{
+  "category": [
+    {
+      "categoryName": "Clothing",
+      "localCategory": [
+        {
+          "localCategoryname": "Hoodies",
+          "obj": [
+            {
+              "ID": 0,
+              "price": 20,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Cozy Comfort Hoodie",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "0", "1", "2" ],
+              "Saved": []
+            },
+            {
+              "ID": 1,
+              "price": 20,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Urban Chill Pullover",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "3", "4", "5" ],
+              "Saved": []
+            },
+            {
+              "ID": 2,
+              "price": 30,
+              "discountCount": 30,
+              "description": "Loremipsumdolorsit",
+              "name": "Relaxed Fit Hoodie",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "6", "7", "8" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Pants",
+          "obj": [
+            {
+              "ID": 3,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Classic Denim Trousers",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "9", "10", "11" ],
+              "Saved": []
+            },
+            {
+              "ID": 4,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Urban Cargo Pants",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "12", "13", "14" ],
+              "Saved": []
+            },
+            {
+              "ID": 5,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Tailored Chino Bottoms",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "15", "16", "17" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "T-Shirts",
+          "obj": [
+            {
+              "ID": 6,
+              "price": 20,
+              "discountCount": 20,
+              "description": "Loremipsumdolorsit",
+              "name": "Casual Comfort Tee",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "18", "19", "20" ],
+              "Saved": []
+            },
+            {
+              "ID": 7,
+              "price": 35,
+              "discountCount": 20,
+              "description": "Loremipsumdolorsit",
+              "name": "Everyday Essentials T-Shirt",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "21", "22", "23" ],
+              "Saved": []
+            },
+            {
+              "ID": 8,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Classic Cotton Top",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "24", "25", "26" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Shoes",
+      "localCategory": [
+        {
+          "localCategoryname": "Sneakers",
+          "obj": [
+            {
+              "ID": 9,
+              "price": 20,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Velocity Crossrunners",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "27", "28", "29" ],
+              "Saved": []
+            },
+            {
+              "ID": 10,
+              "price": 25,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Urban Crosskicks",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "30", "31", "32" ],
+              "Saved": []
+            },
+            {
+              "ID": 11,
+              "price": 20,
+              "discountCount": 30,
+              "description": "Loremipsumdolorsit",
+              "name": "SprintX Sneakers",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "33", "34", "35" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Shoes",
+          "obj": [
+            {
+              "ID": 12,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Elegant Essence",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "36", "37", "38" ],
+              "Saved": []
+            },
+            {
+              "ID": 13,
+              "price": 25,
+              "discountCount": 30,
+              "description": "Loremipsumdolorsit",
+              "name": "Lunar Charm",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "39", "40", "41" ],
+              "Saved": []
+            },
+            {
+              "ID": 14,
+              "price": 20,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Urban Grace",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "42", "43", "44" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Boots",
+          "obj": [
+            {
+              "ID": 15,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Trailblaze Boots",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "45", "46", "47" ],
+              "Saved": []
+            },
+            {
+              "ID": 16,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Urban Explorer Shoes",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "48", "49", "50" ],
+              "Saved": []
+            },
+            {
+              "ID": 17,
+              "price": 25,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Rugged Trekker Footwear",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "51", "52", "53" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Bags",
+      "localCategory": [
+        {
+          "localCategoryname": "Backpacks",
+          "obj": [
+            {
+              "ID": 18,
+              "price": 35,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Adventure Quest Backpack",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "54", "55", "56" ],
+              "Saved": []
+            },
+            {
+              "ID": 19,
+              "price": 20,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Cityscape Voyager Pack",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "57", "58", "59" ],
+              "Saved": []
+            },
+            {
+              "ID": 20,
+              "price": 30,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Explorer's Trail Rucksack",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "60", "61", "62" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Small bags",
+          "obj": [
+            {
+              "ID": 21,
+              "price": 25,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Mini Chic Clutc",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "63", "64", "65" ],
+              "Saved": []
+            },
+            {
+              "ID": 22,
+              "price": 25,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Petite Glam Purse",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "66", "67", "68" ],
+              "Saved": []
+            },
+            {
+              "ID": 23,
+              "price": 25,
+              "discountCount": 30,
+              "description": "Loremipsumdolorsit",
+              "name": "Tiny Trendy Tote",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "69", "70", "71" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Suitcases",
+          "obj": [
+            {
+              "ID": 24,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Voyager's Venture Suitcase",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "72", "73", "74" ],
+              "Saved": []
+            },
+            {
+              "ID": 25,
+              "price": 30,
+              "discountCount": 20,
+              "description": "Loremipsumdolorsit",
+              "name": "Explorer's Expedition Luggage",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "75", "76", "77" ],
+              "Saved": []
+            },
+            {
+              "ID": 26,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Jetsetter's Journey Bag",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "78", "79", "80" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Accessories",
+      "localCategory": [
+        {
+          "localCategoryname": "Necklace",
+          "obj": [
+            {
+              "ID": 27,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Radiant Necklace Ensemble",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "81", "82", "83" ],
+              "Saved": []
+            },
+            {
+              "ID": 28,
+              "price": 25,
+              "discountCount": 20,
+              "description": "Loremipsumdolorsit",
+              "name": "Ethereal Pendant Collection",
+              "isNew": true,
+              "mostPopular": true,
+              "imageLinks": [ "84", "85", "86" ],
+              "Saved": []
+            },
+            {
+              "ID": 29,
+              "price": 20,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Sparkling Chain Set",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "87", "88", "89" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Earrings",
+          "obj": [
+            {
+              "ID": 30,
+              "price": 30,
+              "discountCount": 10,
+              "description": "Loremipsumdolorsit",
+              "name": "Dazzle Drops Earrings",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "90", "91", "92" ],
+              "Saved": []
+            },
+            {
+              "ID": 31,
+              "price": 20,
+              "discountCount": 30,
+              "description": "Loremipsumdolorsit",
+              "name": "Glimmering Gems Earpieces",
+              "isNew": false,
+              "mostPopular": true,
+              "imageLinks": [ "93", "94", "95" ],
+              "Saved": []
+            },
+            {
+              "ID": 32,
+              "price": 30,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Radiant Hoop Earrings",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "96", "97", "98" ],
+              "Saved": []
+            }
+          ]
+        },
+        {
+          "localCategoryname": "Bracelet",
+          "obj": [
+            {
+              "ID": 33,
+              "price": 35,
+              "discountCount": 30,
+              "description": "Loremipsumdolorsit",
+              "name": "Sleek Charm Bracelet",
+              "isNew": false,
+              "mostPopular": false,
+              "imageLinks": [ "99", "100", "101" ],
+              "Saved": []
+            },
+            {
+              "ID": 34,
+              "price": 25,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Elegant Bangle Ensemble",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "102", "103", "104" ],
+              "Saved": []
+            },
+            {
+              "ID": 35,
+              "price": 35,
+              "discountCount": 0,
+              "description": "Loremipsumdolorsit",
+              "name": "Dainty Link Wristlet",
+              "isNew": true,
+              "mostPopular": false,
+              "imageLinks": [ "105", "106", "107" ],
+              "Saved": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
