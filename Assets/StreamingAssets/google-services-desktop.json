@@ -1,26 +1,28 @@
 {
   "project_info": {
-    "project_number": "624813181050",
-    "project_id": "pp31-92220",
-    "storage_bucket": "pp31-92220.appspot.com"
+    "project_number": "510350653430",
+    "project_id": "frbspp31",
+    "storage_bucket": "frbspp31.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:624813181050:android:73b6f541e6755e4cbd53c3",
+        "mobilesdk_app_id": "1:510350653430:ios:edb35bf07b273dc812f9d7",
         "android_client_info": {
-          "package_name": "App.PP31"
+          "package_name": "com.trdelD.fsdPP31"
         }
       },
-      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDJKO26UgYnb7lrRq-ZPTZuRtYbbbHw-9E"
+          "current_key": "AIzaSyCprVoTM09LFIyTq1dbhxNLdcM2xN3bcPA"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 0
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "status": 1
         }
       }
     }
